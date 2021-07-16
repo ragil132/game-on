@@ -1,0 +1,16 @@
+{
+    "name": "Game-On Website for Gamer",
+    "short_name": "Game-on",
+    "description": "This web app is contain information about game",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#E60EED",
+    "theme_color": "#E60EED",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
